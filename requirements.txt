@@ -1,0 +1,10 @@
+streamlit 
+langchain 
+langchain_community
+langchain_groq
+langchain_google_genai
+dotenv
+PIL
+time
+os
+json
